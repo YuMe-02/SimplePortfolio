@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "//SimplePortfolio/static/css/main.ef47b9a8.css",
-    "main.js": "//SimplePortfolio/static/js/main.8c4e9ee6.js",
-    "static/js/453.f6b78d8f.chunk.js": "//SimplePortfolio/static/js/453.f6b78d8f.chunk.js",
-    "static/media/pfp.png": "//SimplePortfolio/static/media/pfp.6c91cfae97c3a8d6b05c.png",
-    "static/media/Banner.jpg": "//SimplePortfolio/static/media/Banner.1d8d1d7c155eafa365e4.jpg",
-    "static/media/diabetesMap.jpg": "//SimplePortfolio/static/media/diabetesMap.76452678dd43683c38dd.jpg",
-    "static/media/Hydro.jpg": "//SimplePortfolio/static/media/Hydro.528b70c298b25177f437.jpg",
-    "static/media/Churn.jpg": "//SimplePortfolio/static/media/Churn.9cddf14d768852266cd7.jpg",
-    "static/media/Proxy.jpeg": "//SimplePortfolio/static/media/Proxy.f899f6262d2967008cf5.jpeg",
-    "index.html": "//SimplePortfolio/index.html",
-    "main.ef47b9a8.css.map": "//SimplePortfolio/static/css/main.ef47b9a8.css.map",
-    "main.8c4e9ee6.js.map": "//SimplePortfolio/static/js/main.8c4e9ee6.js.map",
-    "453.f6b78d8f.chunk.js.map": "//SimplePortfolio/static/js/453.f6b78d8f.chunk.js.map"
+    "main.css": "/SimplePortfolio/static/css/main.ef47b9a8.css",
+    "main.js": "/SimplePortfolio/static/js/main.a129515d.js",
+    "static/js/453.f6b78d8f.chunk.js": "/SimplePortfolio/static/js/453.f6b78d8f.chunk.js",
+    "static/media/pfp.png": "/SimplePortfolio/static/media/pfp.6c91cfae97c3a8d6b05c.png",
+    "static/media/Banner.jpg": "/SimplePortfolio/static/media/Banner.1d8d1d7c155eafa365e4.jpg",
+    "static/media/diabetesMap.jpg": "/SimplePortfolio/static/media/diabetesMap.76452678dd43683c38dd.jpg",
+    "static/media/Hydro.jpg": "/SimplePortfolio/static/media/Hydro.528b70c298b25177f437.jpg",
+    "static/media/Churn.jpg": "/SimplePortfolio/static/media/Churn.9cddf14d768852266cd7.jpg",
+    "static/media/Proxy.jpeg": "/SimplePortfolio/static/media/Proxy.f899f6262d2967008cf5.jpeg",
+    "index.html": "/SimplePortfolio/index.html",
+    "main.ef47b9a8.css.map": "/SimplePortfolio/static/css/main.ef47b9a8.css.map",
+    "main.a129515d.js.map": "/SimplePortfolio/static/js/main.a129515d.js.map",
+    "453.f6b78d8f.chunk.js.map": "/SimplePortfolio/static/js/453.f6b78d8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef47b9a8.css",
-    "static/js/main.8c4e9ee6.js"
+    "static/js/main.a129515d.js"
   ]
 }
